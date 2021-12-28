@@ -130,7 +130,7 @@ st.write('Self-driven with a passion for analytics, process improvement, and all
 
 
 if st.button('View Resume'):
-    webbrowser.open_new_tab('https://google.com)
+    webbrowser.open('https://google.com)
 
     
 
