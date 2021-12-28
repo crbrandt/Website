@@ -19,7 +19,7 @@ from datetime import datetime
 
 ##Updating Page Logo and Tab Title
 st.set_page_config(page_title='Cole Brandt',
-                   page_icon='https://static.wikia.nocookie.net/logopedia/images/b/bc/NationalFootballLeague_PMK01a_1940-1959_SCC_SRGB.png',
+                   page_icon='https://media-exp1.licdn.com/dms/image/C5603AQFnSHiUxeXpVw/profile-displayphoto-shrink_800_800/0/1595044910016?e=1646265600&v=beta&t=081oEk-qqeM0dkpDQ6jwFLdqQTQnQMffaWtRN1IptL4',
                    layout="wide")
 
 
