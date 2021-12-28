@@ -129,8 +129,8 @@ st.write('Self-driven with a passion for analytics, process improvement, and all
 
 
 
-# if st.button('View Resume'):
-#     webbrowser.open_new_tab('https://drive.google.com/file/d/1hcbLlZ1DqYs6hHQeBNta0lnkDmFnlYvj/view?usp=sharing')
+if st.button('View Resume'):
+    webbrowser.open_new_tab('https://drive.google.com/file/d/1hcbLlZ1DqYs6hHQeBNta0lnkDmFnlYvj/view?usp=sharing')
 
     
 
