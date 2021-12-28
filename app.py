@@ -129,7 +129,7 @@ st.write('Self-driven with a passion for analytics, process improvement, and all
 
 
 
-st.button('[link](resume_url)):
+st.button('[link](resume_url)'):
 
 
 #     url = https://www.github.com
