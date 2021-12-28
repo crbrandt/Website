@@ -129,10 +129,11 @@ st.write('Self-driven with a passion for analytics, process improvement, and all
 
 
 
-if st.button('View Resume'):
-    webbrowser.open('https://google.com')
+st.button('[link](resume_url)):
 
-    
+
+#     url = https://www.github.com
+# > st.write("check out this [link](url)")
 
     
 
