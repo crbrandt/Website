@@ -138,6 +138,8 @@ if st.button('View Resume'):
     webbrowser.open_new_tab(resume_url)
 
     
+webbrowser.open_new_tab(resume_url)
+    
 
 #Resume: https://drive.google.com/file/d/1hcbLlZ1DqYs6hHQeBNta0lnkDmFnlYvj/view?usp=sharing
 
